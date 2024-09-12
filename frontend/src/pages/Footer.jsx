@@ -12,7 +12,7 @@ const Footer = () => {
         </div>
 
         {/* Second Division - Useful Links */}
-        <div>
+        <div className="text-center">
           <h3 className="text-xl font-semibold mb-4">Useful Links</h3>
           <ul className="space-y-2">
             <li>
