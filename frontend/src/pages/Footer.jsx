@@ -5,8 +5,8 @@ const Footer = () => {
     <footer className="bg-blue-600 text-white py-12">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
         {/* First Division - About Imeleo */}
-        <div>
-          <h2 className="text-4xl font-bold mb-4">Imeleo</h2>
+        <div className="mr-4 ">
+          <h2 className="text-4xl font-bold mb-4 mr-4">Imeleo</h2>
           <p className="text-lg font-semibold mb-2">Business Software</p>
           <p className="text-lg">Solutions and Services</p>
         </div>
