@@ -4,7 +4,7 @@ import { assets } from "../assets/assets";
 const Whyus = () => {
   return (
     <div className="px-4 md:px-16 lg:px-32 py-12">
-      <div className="bg-pink-100 max-h-full py-8">
+      <div className="bg-pink-100  max-h-full">
         {/*--------the heading------*/}
         <div className="flex flex-col mb-12 text-center">
           <h1 className="text-blue-600 text-4xl md:text-5xl font-bold py-4 mt-6">
