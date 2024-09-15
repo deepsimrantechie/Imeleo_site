@@ -19,6 +19,7 @@ import blogpage_img from "./blogpage_img.png";
 import founder_img from "./founder_img.png";
 import contact_img from "./contact_img.png";
 import contactus_img from "./contactus_img.png";
+import threeline_img from "./threeline_img.png";
 
 export const assets = {
   home_img,
@@ -41,4 +42,5 @@ export const assets = {
   founder_img,
   contact_img,
   contactus_img,
+  threeline_img,
 };
